@@ -7,3 +7,4 @@ CVE-2025-2312-1.patch
 CVE-2025-2312-2.patch
 CVE-2025-2312-3.patch
 lp2113906-cifs.upcall-fix-memory-leaks-in-check_service_ticket.patch
+#CVE-2026-12505.patch
